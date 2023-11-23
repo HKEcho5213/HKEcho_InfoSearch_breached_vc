@@ -1,6 +1,7 @@
 # HKEcho_InfoSearch_breached_vcV1.0
 
-​		该工具的主要目的用于监控国外数据交易论坛：https://breached.vc/；不过目前该站点已经关闭，国外一些新起的论坛站点也是与breached.vc同一框架，该脚本可当参考使用
+​		该工具的主要目的用于监控国外数据交易论坛：https://breached.vc/；
+    不过目前该站点已经关闭，国外一些新起的论坛站点也是与breached.vc同一框架，该脚本可当参考使用
 
 支持的功能：
 
